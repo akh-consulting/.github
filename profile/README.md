@@ -11,10 +11,10 @@ after I leave.
 ### What I work with
 
 - Azure landing zones and subscription vending
-- Azure Policy and governance as code
+- Azure Policy, Entra ID and security baselines as code
 - Terraform and GitHub Actions pipelines
 - Platform engineering and developer self-service
-- Identity and security baselines in Entra ID
+- Monitoring, operations and FinOps after go-live
 
 ### How I work
 
